@@ -1,0 +1,21 @@
+.carousel img {
+    width: 80%;
+    height: 400px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+    border-bottom: 10px;
+    
+}
+
+.tentang-kami {
+    text-align: justify;
+
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
